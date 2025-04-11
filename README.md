@@ -5,7 +5,7 @@
 - download image by download button
 
 # design process
-- initialized react project using vite, install react router dom for routing, fibre for canvas
+- initialized react project using vite, install react router dom for routing, fabric for canvas
 - created two components -edit ,search
 - / route for search , /edit/:id route for edit
 - designed search component with input , search button
