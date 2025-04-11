@@ -1,3 +1,5 @@
+Codesandbox Link - https://codesandbox.io/p/github/aryamishra21/CanvasEditor/main
+
 # steps to use 
 - search for a image 
 - click on add caption of any image to edit
