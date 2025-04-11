@@ -1,0 +1,11 @@
+.btnStyle{
+    margin-top:5px;
+    padding: 0.95rem;
+    border-radius: 20px;
+    border: 1px solid black;
+    cursor: pointer;
+    background:royalblue;
+    color:white;
+    font-weight:bold;
+    border:none
+}
